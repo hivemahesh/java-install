@@ -1,0 +1,5 @@
+---
+# tasks file for java-install
+
+ - name: Installing Java of particular version
+   include: install_java.yml
